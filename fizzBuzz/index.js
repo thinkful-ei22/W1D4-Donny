@@ -15,7 +15,7 @@ $(function() {
     const fizzBuzzBlock='<div class="fizz-buzz-item fizzbuzz"><span>fizzbuzz</span></div>';
     const fizzBlock='<div class="fizz-buzz-item fizz"><span>fizz</span></div>';
     const buzzBlock='<div class="fizz-buzz-item buzz"><span>buzz</span></div>';
-    let fizzNumber = 1;
+    let fizzNumber = 1; //create variable to store number
 
     for(let i=0;i<userNumber+1;i++){
       if (i%3 === 0 && i%5 === 0){
@@ -29,11 +29,10 @@ $(function() {
       } 
       else{
         fizzNumber = i;
-        $('.js-results').append('<div class="fizz-buzz-item buzz"><span>'+fizzNumber+'</span></div>');
+        $('.js-results').append('<div class="fizz-buzz-item"><span>'+fizzNumber+'</span></div>');
 
       } 
     }
-
     //end fizzbuzzcalculations
 
   });  
