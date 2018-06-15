@@ -17,7 +17,7 @@ $(function() {
     const buzzBlock='<div class="fizz-buzz-item buzz"><span>buzz</span></div>';
     let fizzNumber = 1; //create variable to store number
 
-    for(let i=0;i<userNumber+1;i++){
+    for(let i=0;i <= userNumber;i++){
       if (i%3 === 0 && i%5 === 0){
         $('.js-results').append(fizzBuzzBlock);
       } 
