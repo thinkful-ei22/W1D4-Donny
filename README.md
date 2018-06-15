@@ -7,3 +7,9 @@ https://htmlpreview.github.io/?https://github.com/thinkful-ei22/W1D4-Donny/blob/
 
 FizzBuzz
 https://htmlpreview.github.io/?https://github.com/thinkful-ei22/W1D4-Donny/blob/master/fizzBuzz/index.html
+
+Etch Challenge
+https://htmlpreview.github.io/?https://github.com/thinkful-ei22/W1D4-Donny/blob/master/etcherChallenge/etch.html
+
+Shopping List App
+https://htmlpreview.github.io/?https://github.com/thinkful-ei22/W1D4-Donny/blob/master/shoppingListApp/index.html
